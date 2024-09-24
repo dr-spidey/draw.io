@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
+  <diagram name="Page-1" id="8f1ePIv2XLa2bFDYpTJ7">
+    <mxGraphModel dx="2813" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="uygCMqcxwyH65SjiUU3_-21" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" parent="1" source="uygCMqcxwyH65SjiUU3_-6" target="uygCMqcxwyH65SjiUU3_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-6" value="Paper 2: Assessing AI/CS Classification Uncertainty " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="384" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;labelBorderColor=none;textShadow=1;" edge="1" parent="1" source="uygCMqcxwyH65SjiUU3_-9" target="uygCMqcxwyH65SjiUU3_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-20" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;entryX=0.536;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;textShadow=1;" edge="1" parent="1" source="uygCMqcxwyH65SjiUU3_-9" target="uygCMqcxwyH65SjiUU3_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-9" value="Review paper" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#d5e8d4;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="249" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-22" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" parent="1" source="uygCMqcxwyH65SjiUU3_-14" target="uygCMqcxwyH65SjiUU3_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-14" value="Paper 3: Evaluating the Impact of Scale" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="384" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-15" value="Paper 4:Linking Occupancy and Abundance Models to Community Level EBVs " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#f8cecc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="510" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-25" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-26" target="uygCMqcxwyH65SjiUU3_-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-26" value="Paper 2: Assessing AI/CS Classification Uncertainty " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1444" y="388.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-29" target="uygCMqcxwyH65SjiUU3_-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-28" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;entryX=0.536;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-29" target="uygCMqcxwyH65SjiUU3_-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-29" value="Paper 1: Review of camera trap study designs and analytical techniques " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#d5e8d4;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1619" y="253.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-31" target="uygCMqcxwyH65SjiUU3_-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-31" value="Paper 3: Evaluating the Impact of Scale" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="388.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-32" value="Paper 4:Linking Occupancy and Abundance Models to Community Level EBVs " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#f8cecc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1619" y="514.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-34" target="uygCMqcxwyH65SjiUU3_-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-34" value="Paper 2: Assessing AI/CS Classification Uncertainty " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1215" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-35" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-37" target="uygCMqcxwyH65SjiUU3_-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#82B366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;entryX=0.536;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-37" target="uygCMqcxwyH65SjiUU3_-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-37" value="Paper 1: Review of AI and Spatial Scale in Wildlife Monitoring " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#82b366;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#d5e8d4;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="1080" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-38" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" edge="1" source="uygCMqcxwyH65SjiUU3_-39" target="uygCMqcxwyH65SjiUU3_-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-39" value="Paper 3: Evaluating the Impact of Scale" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#d79b00;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#ffe6cc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="1215" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uygCMqcxwyH65SjiUU3_-40" value="Paper 4:Linking Occupancy and Abundance Models to Community Level EBVs " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;spacingTop=0;spacing=2;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=15;fillColor=#f8cecc;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="1341" width="260" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
