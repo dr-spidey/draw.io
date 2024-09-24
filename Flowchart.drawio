@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="PhD Schematic Diagram" id="RMzeJk5iH4CK7UJwIvMx">
+    <mxGraphModel dx="2938" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-1" value="Advancing Wildlife Monitoring: Integrating AI Classification and Spatial Scale in Occupancy and Abundance Models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAD3;strokeColor=#6AA84F;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="174" y="330" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-2" value="Paper 1: Review of AI and Spatial Scale in Wildlife Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9DAF8;strokeColor=#3C78D8;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="194" y="430" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-3" value="Paper 2: Assessing AI Classification Uncertainty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9CB9C;strokeColor=#E69138;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="94" y="543" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-4" value="Paper 3: Evaluating the Impact of Spatial Scale" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9CB9C;strokeColor=#E69138;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="454" y="543" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-5" value="Paper 4: Linking Occupancy and Abundance Models to Community-Level EBVs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#F1C232;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="194" y="663" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-6" value="Contribution to Biodiversity Conservation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAD1DC;strokeColor=#C27BA0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="234" y="783" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3C78D8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" edge="1" parent="1" source="vUIVWtkRMpUm8YJ0qrWg-2" target="vUIVWtkRMpUm8YJ0qrWg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3C78D8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" edge="1" parent="1" source="vUIVWtkRMpUm8YJ0qrWg-2" target="vUIVWtkRMpUm8YJ0qrWg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E69138;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" edge="1" parent="1" source="vUIVWtkRMpUm8YJ0qrWg-3" target="vUIVWtkRMpUm8YJ0qrWg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E69138;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" edge="1" parent="1" source="vUIVWtkRMpUm8YJ0qrWg-4" target="vUIVWtkRMpUm8YJ0qrWg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUIVWtkRMpUm8YJ0qrWg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F1C232;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Inter;fontSize=16;strokeWidth=3;shadow=1;spacingLeft=8;spacingRight=8;" edge="1" parent="1" source="vUIVWtkRMpUm8YJ0qrWg-5" target="vUIVWtkRMpUm8YJ0qrWg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
